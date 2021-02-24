@@ -6,6 +6,7 @@ Fragment juga bisa disebut sub nya activity, satu activity bisa memiliki lebih d
 Fragmen memiliki siklus hidupnya sendiri yang sangat mirip dengan Aktivitas, tetapi memiliki peristiwa 
 tambahan yang khusus untuk hierarki tampilan, status, dan lampiran Fragmen ke aktivitasnya.
 # Lifecycle Fragment
+![AltText](https://github.com/najmi10/Fragment/blob/master/lifecycle%20fragment.png)
 - [x] onAttach ():  Instance fragmen dikaitkan dengan instance aktivitas. Metode ini dipanggil pertama 
 kali, bahkan sebelum metode onCreate (). Metode ini memberi tahu kami bahwa Fragmen kami telah 
 dilampirkan ke suatu aktivitas.
